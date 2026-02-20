@@ -58,5 +58,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/aminaasif20&show_icons=true&locale=en&layout=compact" alt="aminaasif20" />
+  <img src="https://github.com/aminaasif20" alt="aminaasif20" />
 </p>
