@@ -9,7 +9,7 @@
 
 -  How to reach me **aminaasif245@gmail.com**
 
--  Fun fact : Whenever I learn something new or think of an idea, I implement it immediately. I believe execution is more powerful**
+-  Fun fact : **Whenever I learn something new or think of an idea, I implement it immediately. I believe execution is more powerful**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,5 +58,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminaasif20&show_icons=true&locale=en&layout=compact" alt="aminaasif20" />
+  <img src="https://github.com/aminaasif20&show_icons=true&locale=en&layout=compact" alt="aminaasif20" />
 </p>
