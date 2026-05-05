@@ -57,14 +57,6 @@ I'm a passionate software developer from Pakistan with a strong drive to build i
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminaasif20&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
-
 <p align="center">
   <em>“Code. Build. Iterate. Improve.”</em>
 </p>
