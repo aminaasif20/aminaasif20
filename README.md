@@ -65,12 +65,6 @@ I'm a passionate software developer from Pakistan with a strong drive to build i
 
 ---
 
-### 📌 Featured Projects
-
-*More coming soon — stay tuned!*
-
----
-
 <p align="center">
   <em>“Code. Build. Iterate. Improve.”</em>
 </p>
