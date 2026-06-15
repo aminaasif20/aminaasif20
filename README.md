@@ -5,55 +5,54 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/by-amina-asif)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/aminakagg1e)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:aminaasif245@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/by-amina-asif)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/aminakagg1e)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminaasif245@gmail.com)
 
 </div>
 
 ---
 
-## 👩‍💻 Professional Summary
+## 📊 GitHub Statistics
 
-I'm a dedicated **Software Developer** from Pakistan with a strong passion for crafting impactful digital solutions. My approach is rooted in practical execution — I believe in transforming ideas into working code rapidly and efficiently.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aminaasif&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminaasif&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%" />
+</p>
 
-- 🎯 **Current Focus:** Full-Stack Web Development & Flutter Mobile Apps
-- 📧 **Business Inquiries:** aminaasif245@gmail.com
-- ⚡ **Core Principle:** *"Execution is more powerful than intention."*
-
----
-
-## 🛠️ Technical Expertise
-
-### Languages & Frameworks
-
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | HTML5, JavaScript, React |
-| **Backend** | Node.js, C# |
-| **Mobile** | Android, Flutter |
-| **Database** | MySQL |
-| **Languages** | C++, C# |
-
-### Proficiency Breakdown
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminaasif&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="40%" />
 </p>
 
 ---
 
-## 📊 Development Philosophy
+## 🎯 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminaasif&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" width="90%" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+### 🚀 Quick Overview
+
+- 🎯 **Currently Building:** Full-Stack Web Apps & Flutter Projects
+- 🌱 **Learning:** Advanced React Patterns & Node.js Microservices
+- 💡 **Philosophy:** *"Execution is more powerful than intention."*
+- 📍 **Based in:** Pakistan
+- 📧 **Contact:** aminaasif245@gmail.com
+
+</td>
+<td width="40%">
 
 ```mermaid
-graph LR
+graph TD
     A[💡 Idea] --> B[⚡ Quick Execution]
     B --> C[💻 Code]
     C --> D[🔨 Build]
