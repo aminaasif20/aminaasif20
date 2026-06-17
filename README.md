@@ -29,8 +29,8 @@ I'm a passionate software developer from Pakistan with a strong drive to build i
 
 <!-- Dynamic graphs that update automatically -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="Amina's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aminaasif20&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="Amina's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminaasif20&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" alt="Top Languages" />
 </p>
 
 <br/>
