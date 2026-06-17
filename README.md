@@ -2,13 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Amina+Asif;Software+Developer;Full-Stack+Enthusiast;Quick+Learner" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aminaasif&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aminaasif?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/aminaasif?label=Stars&style=social" alt="Stars" />
-</p>
 
----
 
 
 I'm a passionate software developer from Pakistan with a strong drive to build impactful digital solutions. I believe in learning by doing — whenever I grasp a new concept or envision an idea, I move quickly from thought to execution.
