@@ -25,12 +25,14 @@ I'm a passionate software developer from Pakistan with a strong drive to build i
 
 <br/>
 
-<h3 align="center">🏆 Developer Achievements</h3>
+<h3 align="center">📊 Contributions & Activity</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aminaasif20&theme=onedark&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminaasif20&theme=transparent&hide_border=true&title_color=3B82F6&sideNums=777777&sideLabels=777777&dates=777777" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminaasif20&theme=nord" alt="Profile Details" width="80%"/>
 </p>
 
 <p align="center">
