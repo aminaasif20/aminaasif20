@@ -7,51 +7,45 @@
 
 I'm a passionate software developer from Pakistan with a strong drive to build impactful digital solutions. I believe in learning by doing — whenever I grasp a new concept or envision an idea, I move quickly from thought to execution.
 
-- 🌱 Currently expanding my expertise in **full-stack web development** and **Flutter**
-- 📫 Reach me at: **aminaasif245@gmail.com**
+- 🌱 Currently expanding my expertise in **Full-Stack Web Development** & **Flutter**
+- 🔭 Working on dynamic UI/UX enhancements and AI-integrated applications
+- 📫 Reach me at: **[aminaasif245@gmail.com](mailto:aminaasif245@gmail.com)**
 - ⚡ Philosophy: *"Execution is more powerful than intention."*
 
----
+<br/>
 
-### 🔗 Connect with Me
+<h3 align="center">🛠️ Technologies & Tools</h3>
 
-<p align="left">
-<a href="https://linkedin.com/in/by-amina-asif" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/aminakagg1e" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-</a>
+<!-- Upgraded unified skill icons for a professional look -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,js,html,css,flutter,dart,cpp,cs,mysql&perline=6" alt="Tech Stack Icons" />
+  </a>
 </p>
 
----
+<br/>
 
-###  Technologies & Tools
+<h3 align="center">📊 GitHub Analytics Graphs</h3>
 
-<p align="left">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+<!-- Dynamic graphs that update automatically -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="Amina's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" alt="Top Languages" />
+</p>
+
+<br/>
+
+<h3 align="center">🔗 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/by-amina-asif" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <a href="https://kaggle.com/aminakagg1e" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <a href="mailto:aminaasif245@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -59,5 +53,4 @@ I'm a passionate software developer from Pakistan with a strong drive to build i
 
 <p align="center">
   <em>“Code. Build. Iterate. Improve.”</em>
-</p>
- i want to change the layout of this change it to complete professional website
+</p> 
